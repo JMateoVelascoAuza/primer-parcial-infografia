@@ -1,5 +1,5 @@
 # primer-parcial-infografia
-NOMBRE: Julio MAteo Velasco Auza
+NOMBRE: Julio Mateo Velasco Auza
 
 CODIGO: 55260 
 
